@@ -1,0 +1,9 @@
+# Node.js
+node_modules/
+.env
+
+# MacOS
+.DS_Store
+
+# React Native
+# (We'll add more here when we get to the frontend)
